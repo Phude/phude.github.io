@@ -35,9 +35,11 @@ body {
     transform: translate(-50%, -50%);
     position: absolute;
     margin: auto;
+    padding: 0px;
     top: 50%;
     left: 50%;
-    color: ;
+/*    color: ;*/
+    font-family: 'COCOGOOSE', sans-serif;
 }
 
 #bottom-text {
